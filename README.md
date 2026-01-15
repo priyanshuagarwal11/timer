@@ -15,7 +15,7 @@ A minimalist, web-based Pomodoro Timer built with HTML5, CSS3, and Vanilla JavaS
 
 ## 📦 Installation
 No installation is required! This is a static frontend project.
-
+---------------------------------------------------------------
 
 ## 📖 How to Use
 1.  Click **Start** to begin the 25-minute countdown.
