@@ -27,5 +27,4 @@ No installation is required! This is a static frontend project.
 * [ ] Add a "Short Break" (5 min) and "Long Break" (15 min) button.
 * [ ] Add a sound notification when the timer finishes.
 * [ ] Allow users to customize the timer duration.
-* [ ] Add a task list (To-Do) underneath the timer.
-* [ ] 
+* [ ] Add a task list (To-Do) underneath the timer. 
